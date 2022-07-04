@@ -1,5 +1,3 @@
-# paginaweb
-Es una página web para leer información sobre contenido Anime
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,8 +42,7 @@ Es una página web para leer información sobre contenido Anime
     </div> 
     <div>
       <p>Selection project: Sparkrash</p>
-      <iframe width="450" height="250" src="https://www.youtube.com/embed/uCtrg9Sz7Dw"allowfullscreen></iframe>
+      <iframe width="450" height="250" src="https://www.youtube.com/embed/uCtrg9Sz7Dw"> </iframe>
     </div>
 </body>
-  
 </html>
