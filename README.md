@@ -2,7 +2,6 @@
 <html>
 <head>
   <title> Anime </title>
-  <H1 style="color: red;">ANIME!ANIME!</H1>
 </head>
   
 <body>
