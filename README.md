@@ -42,7 +42,7 @@
     </div> 
     <div>
       <p>Selection project: Sparkrash</p>
-      <iframe width="450" height="250" src="https://www.youtube.com/embed/uCtrg9Sz7Dw"> </iframe>
+      <iframe width="450" height="250" src="https://www.youtube.com/embed/uCtrg9Sz7Dw" > </iframe>
     </div>
 </body>
 </html>
